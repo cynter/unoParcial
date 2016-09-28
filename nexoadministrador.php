@@ -1,5 +1,5 @@
 <?php
-		require_once("Clases/Mascota.php");	
+		require_once("Mascota.php");	
 
 $quehago=$_POST['queHacer'];
 

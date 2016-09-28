@@ -48,7 +48,7 @@ function AgregarMascota()
 		return;
 	}
 	if(mascota.fnac==""){
-		alert("Debe Ingresar Fnac");
+		alert("Debe Ingresar Fecha de nacimiento");
 		return;
 	}
 
